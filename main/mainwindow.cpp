@@ -12,6 +12,8 @@ MainWindow::MainWindow(QWidget *parent)
 {
     ui.setupUi(this);
     ui.graphicsView->setScene(&scene);
+
+    this->setWindowTitle("ColorBar");
 }
 
 void MainWindow::closeEvent(QCloseEvent* e)
