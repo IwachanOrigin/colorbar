@@ -28,4 +28,4 @@ CMakeLists.txtではQTDIRを環境変数から取得して使用しています�
 This software is released under the MIT License, see LICENSE.
 
 ## References
-![C言語で学ぶ実践CG・映像合成](https://www.ohmsha.co.jp/book/9784274500169/)
+[C言語で学ぶ実践CG・映像合成](https://www.ohmsha.co.jp/book/9784274500169/)
