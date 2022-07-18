@@ -13,6 +13,7 @@ GUIにはQtを使用しています。
 ## Build
 CMakeLists.txtではQTDIRを環境変数から取得して使用しています。  
 また、ここではWSL2とPowerShell、CMakeを使用したビルド方法を記述します。  
+CMakeは環境変数のPATHへ追加しています。  
 
 1. このリポジトリをクローンします。  
 2. 以下のコマンドでビルドします。  
