@@ -3,6 +3,9 @@
 カラーバーを作成し、QImageにしてGUIに表示するプログラムです。  
 GUIにはQtを使用しています。  
 
+## Demo
+![colorbar](https://user-images.githubusercontent.com/12496951/179530405-3f367292-541d-4aa0-b9b6-cb39ed4d15f1.PNG)
+
 ## Dependency
 - MSVC 15+  
 - Qt 5.13.1
